@@ -72,37 +72,37 @@ export default function Home() {
       >
         <p>
           {
-            "I'm really sorry for what I said, yaa cantik. I know it came out wrong and I understand why it would make u upset at me and of course that's reasonable."
+            "i'm really sorry for what i said, yaa cantik. i know it came out wrong and i understand why it would make u upset at me and of course that's reasonable."
           }
         </p>
 
         <p>
           {
-            "I didn't mean it that way, but I take full responsibility for how it sounded. I should've been more careful with my words. And especialy with how i wanted to present my intentions, I should've been more thoughtful, and I'm sorry for not being that in that moment."
+            "i didn't mean it that way, but i take full responsibility for how it sounded. i should've been more careful with my words. And especialy with how i wanted to present my intentions, i should've been more thoughtful, and i'm sorry for not being that in that moment."
           }
         </p>
 
         <p>
           {
-            "I want you to know clearly. I don't care about anyone else like I care about you. You're the only one I want, the only one I think about. Especiallly the only on I'd go to the moon and back for. I know I didn't show that in the way I spoke, And I'm sorry for not expressing that better."
+            "i want you to know clearly. i don't care about anyone else like i care about you. You're the only one i want, the only one i think about. Especiallly the only on i'd go to the moon and back for. i know i didn't show that in the way i spoke, And i'm sorry for not expressing that better."
           }
         </p>
 
         <p>
           {
-            "What I said wasn't because I was choosing or defending anyone over you. I just didn't think enough before speaking, and that's on me."
+            "What i said wasn't because i was choosing or defending anyone over you. i just didn't think enough before speaking, and that's on me."
           }
         </p>
 
         <p>
           {
-            "I hate that I said that. But always know that you are my priority, because you are. You always have been. And I will make sure to show that better from now on, because you deserve that. No one else comes close to how much I care about you, and I want to make sure you feel that in how I treat you moving forward. You are my world Clarissa, and I want to make sure you know that in everything I do and in everything I say from now on. Kifa sayang Ica so much, and I'm sorry for not showing that better in that moment."
+            "i hate that i said that. But always know that you are my priority, because you are. You always have been. And i will make sure to show that better from now on, because you deserve that. No one else comes close to how much i care about you, and i want to make sure you feel that in how i treat you moving forward. You are my world Clarissa, and i want to make sure you know that in everything i do and in everything i say from now on. Kifa sayang ica so much, and i'm sorry for not showing that better in that moment."
           }
         </p>
 
         <p className="text-yellow-400 font-medium">
           {
-            "I won't say anything like that again. I'll do better, because you deserve that."
+            "i won't say anything like that again. i'll do better, because you deserve that."
           }
         </p>
       </section>
