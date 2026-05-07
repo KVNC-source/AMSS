@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+/* =========================
+   FONT VARIABLES
+========================= */
+:root {
+  --font-playfair: "Playfair Display", serif;
+  --font-inter: "Inter", sans-serif;
+}
+
+/* =========================
+   BASE STYLING
+========================= */
+html,
+body {
+  background-color: #000000;
+  color: #e5e5e5;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+/* =========================
+   TYPOGRAPHY
+========================= */
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-playfair), serif;
+  letter-spacing: 0.02em;
+}
+
+p,
+button,
+span {
+  font-family: var(--font-inter), sans-serif;
+}
+
+/* =========================
+   GOLD TEXT EFFECT
+========================= */
+.gold-text {
+  background: linear-gradient(90deg, #d4af37, #ffd700, #d4af37);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* =========================
+   BACKGROUND GLOW (STABLE)
+========================= */
+.background-glow {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+
+  background:
+    radial-gradient(circle at top, rgba(212, 175, 55, 0.28), transparent 45%),
+    radial-gradient(circle at bottom, rgba(255, 215, 0, 0.14), transparent 40%);
+}
+
+/* =========================
+   SELECTION STYLE
+========================= */
+::selection {
+  background: #d4af37;
+  color: black;
+}
+
+/* =========================
+   SMOOTH RENDERING
+========================= */
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
